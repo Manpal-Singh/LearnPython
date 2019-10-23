@@ -1,0 +1,26 @@
+//install dependencies 
+npm init  // generat package.json
+
+npm install express --save
+
+npm install mongoose cors path body-parser --save
+
+//run node server 
+node app.js
+
+//install nodemon to watch changes and updating and refreshing server
+npm install nodemon
+
+install postman to test api
+
+//run mongodb for backend thing 
+sudo service mongod start
+
+//integrating bootstarp
+1- Installing bootstrap 4:
+
+npm install bootstrap
+2- Add the below import to the src\styles.css
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
